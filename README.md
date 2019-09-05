@@ -8,3 +8,8 @@ Options
   --p : pcd file folder
   --m : mode - bin2pcd, pcd2bin
 ```
+
+## Example
+```
+./binpcd --m=bin2pcd --b=/home/docker_share/sequences/00/velodyne/ --p=/home/docker_share/sequences/00_pcd
+```
